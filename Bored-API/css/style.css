@@ -1,0 +1,22 @@
+.container{
+
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+img{
+
+    max-width: 600px;
+    height: auto;
+    margin: 0 auto;
+}
+
+button{
+    display: block;
+
+    margin: 0 auto;
+    margin-top: 50px;
+    cursor: pointer;
+}
